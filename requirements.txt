@@ -1,0 +1,7 @@
+
+squarify
+matplotlib
+numpy
+mysql-connector-python
+pandas
+seaborn
