@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d36c2adc-bccf-4fde-b9ca-47c7fee31efc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tarea_s11_1_sprint_11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft_sprint_11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_s10_1_sprint_10.pbix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarea_s11_1_sprint_11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tarea_s11_1_sprint_11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/users.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,9 @@
       <workItem from="1774440218436" duration="832000" />
       <workItem from="1774441171556" duration="3001000" />
       <workItem from="1774444403935" duration="1617000" />
-      <workItem from="1774446043392" duration="41244000" />
+      <workItem from="1774446043392" duration="42494000" />
+      <workItem from="1774521331506" duration="21278000" />
+      <workItem from="1774702980731" duration="19635000" />
     </task>
     <servers />
   </component>
